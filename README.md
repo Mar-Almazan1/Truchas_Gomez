@@ -1,4 +1,4 @@
-# Truchas y Asadero Gómez - Proyecto con Express.js y MongoDB
+# Truchas y Asadero Gómez - Proyecto con Node.js y MongoDB
 
 ## Descripción
 Aplicación backend para un restaurante local que permite:
@@ -9,8 +9,7 @@ Aplicación backend para un restaurante local que permite:
 
 ## Tecnologías
 - Node.js
-- Express.js
-- MongoDB Atlas
+- MongoDB 
 - Mongoose
 - Dotenv
 
