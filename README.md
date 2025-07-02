@@ -1,4 +1,4 @@
-# Truchas y Asadero Gómez - Proyecto Simulado (sin base de datos)
+# Truchas y Asadero Gómez 
 
 ## Descripción
 Este proyecto simula el backend de un restaurante sin conectarse a MongoDB. Útil para pruebas o cuando no se tiene acceso a una base de datos.
